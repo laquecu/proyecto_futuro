@@ -4,7 +4,7 @@ public class Proyecto {
 
         System.out.println(nombre+" "+modulos+" "+horas);
 
-    }
+    }      /* ESte es mi nombre Jorge Selva*/
 
     public static String veredicto(String valor1, String valor2){
         if (valor1.equals(valor2)) {
