@@ -1,6 +1,10 @@
 public class Proyecto {
-      private static void estudio(String nombre, int modulos,int horas){
+<<<<<<< HEAD
+      public static void estudio(String nombre, int modulos,int horas){
 
+=======
+    private static void estudio(String nombre, int modulos,int horas){
+>>>>>>> privado
 
         System.out.println(nombre+" "+modulos+" "+horas);
 
